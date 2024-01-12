@@ -5,6 +5,7 @@ import { IoShirt } from 'react-icons/io5';
 import { FaSackDollar } from 'react-icons/fa6';
 import { renderDate } from '../utils/renderDate';
 import Flex from './Flex';
+import SmallText from './SmallText';
 
 const donationClasses = 'flex justify-between items-center bg-grayish/20 p-2 rounded-lg border border-grayish/50 group';
 
@@ -30,7 +31,7 @@ const Donation = ({ type, name, date, amount, id, handleDelete, handleEdit }) =>
 
         <div className='space-y-0.5'>
           <p className='capitalize'>{name}</p>
-          <p className='text-xs text-grayish'>{renderDate(date)}</p>
+          <SmallText>{renderDate(date)}</SmallText>
         </div>
       </Flex>
 

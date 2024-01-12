@@ -9,10 +9,10 @@ const Header = () => {
     <Flex classes='justify-between mt-6'>
       <Flex>
         <img src={logo} alt='shelter logo' className='h-5' />
-        <h1 className='font-bold'>Sheltero</h1>
+        <h1 className='font-bold text-lg'>Sheltero</h1>
       </Flex>
 
-      <h2 className='font-bold'> {timeOfTheDay()}</h2>
+      <h2 className='font-bold text-lg'> {timeOfTheDay()}</h2>
     </Flex>
   );
 };
