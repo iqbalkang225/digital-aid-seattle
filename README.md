@@ -4,7 +4,7 @@
   <img src="https://socialify.git.ci/iqbalkang225/digital-aid-seattle/image?language=1&name=1&owner=1&theme=Light" alt="digital-aid-seattle"  />
 </p>
 
-This is a web application created in React to help a local animal shelter name Sheltero manage their donation inventory. The application allows users to input, track, and analyze donations efficiently.
+This is a web application created in React to help a local animal shelter named Sheltero manage their donation inventory. The application allows users to input, track, and analyze donations efficiently.
 
 <h2>🚀 Hosted At</h2>
 
