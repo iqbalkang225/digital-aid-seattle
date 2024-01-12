@@ -37,9 +37,21 @@ This is a web application created in React to help a local animal shelter name S
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/iqbalkang225/digital-aid-seattle.git
+   git clone https://github.com/iqbalkang225/digital-aid-seattle.git sheltero
 
 2. Navigate to the project directory:
 
     ```bash
-    cd donation-inventory-app
+    cd sheltero
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+
+4. Run the following command to start the application:
+
+    ```bash
+    npm start
+
+The application will be accessible at http://localhost:3000.
