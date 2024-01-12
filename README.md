@@ -8,7 +8,7 @@ This is a web application created in React to help a local animal shelter name S
 
 <h2>🚀 Hosted At</h2>
 
-[https://digital-aid-seattle.vercel.app/)
+https://digital-aid-seattle.vercel.app/
 
 ## Core Functionalities
 
