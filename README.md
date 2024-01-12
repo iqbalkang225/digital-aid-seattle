@@ -1,4 +1,4 @@
-# Donation Inventory Management Web Application
+# Sheltero Web Application
 
 This is a web application created in React to help a local animal shelter name Sheltero manage their donation inventory. The application allows users to input, track, and analyze donations efficiently.
 
@@ -38,3 +38,8 @@ This is a web application created in React to help a local animal shelter name S
 
    ```bash
    git clone https://github.com/iqbalkang225/digital-aid-seattle.git
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd donation-inventory-app
