@@ -79,7 +79,7 @@ export default DonationsContainer;
 const EmptyDonationContainer = () => {
   return (
     <Flex classes='h-full'>
-      <SmallText>No Dontaions Available</SmallText>
+      <SmallText>No Dontaions Found</SmallText>
     </Flex>
   );
 };
